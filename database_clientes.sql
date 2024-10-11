@@ -8,7 +8,7 @@ CREATE TABLE tb_cliente (
     nm_senha_cliente VARCHAR(70) NOT NULL,
     nm_nome_cliente VARCHAR(100) NOT NULL,
     id_cpf VARCHAR(11) NOT NULL UNIQUE,
-    nm_tipo_endereco_cliente VARCHAR(50),
-    nm_endereco VARCHAR(255),
-    id_cep VARCHAR(9)
+    nm_tipo_endereco_cliente VARCHAR(50) NOT NULL,
+    nm_endereco VARCHAR(255) NOT NULL,
+    id_cep VARCHAR(9) NOT NULL
 );
