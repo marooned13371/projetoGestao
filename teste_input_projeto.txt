@@ -1,0 +1,31 @@
+Usuário 1:
+
+Email: usuario1@email.com
+Senha: Senha@123
+Nome: João da Silva
+CPF: 123.456.789-09
+Tipo de Endereço: residencial
+Endereço: Rua A, 123
+CEP: 12345678
+
+
+Usuário 2 (Senha Fraca):
+
+Email: usuario4@email.com
+Senha: 12345 (muito curta e sem caracteres especiais)
+Nome: Ana Souza
+CPF: 222.333.444-5567 (CPF mais longo)
+Tipo de Endereço: indefinido (endereço inválido)
+Endereço: Rua B, 101
+CEP: 22334455
+
+
+Usuário 3 (CPF repetido):
+
+Email: usuario2@email.com
+Senha: Senha@123
+Nome: João da Silva
+CPF: 123.456.789-09
+Tipo de Endereço: residencial
+Endereço: Rua C, 123
+CEP: 12345678

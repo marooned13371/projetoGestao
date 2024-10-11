@@ -1,0 +1,7 @@
+security\HashUtil.class
+gestorclientes\Main.class
+clientes\ClienteDTO.class
+clientes\ClienteDAO.class
+connection\DatabaseConnection.class
+security\ValidadorCliente$verificarCadastroCliente.class
+security\ValidadorCliente.class
